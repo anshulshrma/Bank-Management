@@ -20,7 +20,7 @@ public class mini extends JFrame implements ActionListener {
         JLabel label1=new JLabel();
         label1.setBounds(20,140,400,200);
         add(label1);
-        JLabel label2=new JLabel("NITIN BISHT");
+        JLabel label2=new JLabel("Anshul Sharma");
         label2.setFont(new Font("Raleway",Font.BOLD,15));
         label2.setBounds(150,20,200,20);
         add(label2);
